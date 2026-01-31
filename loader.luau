@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Khangdz28/Mains/refs/heads/main/BloxFruits"))()
+loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/3Lp48BmiFBlAKz2b/raw", true))()
