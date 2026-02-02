@@ -1,2 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/MeowOnTopHub/Bf/refs/heads/main/Upd"))()
-loadstring(game:HttpGet("https://pastefy.app/trRHqJkM/raw"))()
+loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/FQu8q6IwKYlnILaI/raw", true))()
